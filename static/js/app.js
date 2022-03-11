@@ -1,3 +1,4 @@
+console.log(data);
 // import the data from data.js
 const tableData = data;
 // Reference the HTML table using d3
@@ -12,5 +13,6 @@ function doubleAddition(c, d) {
     return total;
   }
 // Converted to an arrow function
-addition = (a, b) => a + b;
-doubleAddition = (c, d) => addition(c, d) * 2;
+// addition = (a, b) => a + b;
+// doubleAddition = (c, d) => addition(c, d) * 2;
+
