@@ -3,9 +3,13 @@ Module 11 UFO Sightings with JavaScript (Grade /100)
 ###### Project Overview
 Using JavaScript and HTML to Filter UFO sightings on multiple criteria by city, state, country, and shape.
 ###### Resources
+
 [index.html](https://github.com/robyndook/UFOs/blob/814dcd0e5702adac790ff1a6674bccadaab5c0bc/static/index.html)
+
 [app.js](https://github.com/robyndook/UFOs/blob/814dcd0e5702adac790ff1a6674bccadaab5c0bc/static/js/app.js)
+
 [data.js](https://github.com/robyndook/UFOs/blob/814dcd0e5702adac790ff1a6674bccadaab5c0bc/static/js/data.js)
+
 ###### Results
 ###### **The Truth Is Out There**
 
