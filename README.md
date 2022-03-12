@@ -17,7 +17,7 @@ Using JavaScript and HTML to Filter UFO sightings on multiple criteria by city, 
 
 **Navigating UFO Sights**
 
-![UFO_Sightings.jpg](https://github.com/robyndook/UFOs/blob/a9b43b96006248cfcda4d0ffee2583b176c666dd/static/images/UFO_Sightings.jpg)
+![UFO_Sightings.jpg](https://github.com/robyndook/UFOs/blob/b951cc4e3f47fef5f535096d6cadcdb11f98be9f/static/images/UFO_Sightings.jpg)
 
 - Filter your search by date, city, state, county, and shape
 
