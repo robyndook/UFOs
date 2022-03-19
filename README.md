@@ -1,5 +1,5 @@
 # UFOs
-Module 11 UFO Sightings with JavaScript (Grade /100)
+Module 11 UFO Sightings with JavaScript (Grade 100/100)
 ###### Project Overview
 Using JavaScript and HTML to Filter UFO sightings on multiple criteria by city, state, country, and shape.
 ###### Resources
